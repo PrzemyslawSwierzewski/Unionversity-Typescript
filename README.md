@@ -1,4 +1,4 @@
-# Video-Player-using-React
+# Unionversity-Typescript
   This repository was created with codecademy to learn Typescript.
 # The purpose of the app
  We can choose what to display by changing the object in the searchResult.
